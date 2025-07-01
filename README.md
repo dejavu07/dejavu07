@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dejavu07&label=Profile%20views&color=0e75b6&style=flat" alt="dejavu07" /> </p>
 
-## 💼 Visit my <a href="https://jda-kappa.vercel.app/">Portfolio</a>
+## 💼 Visit my <a href="https://jda-kappa.vercel.app/" target="_blank">Portfolio</a>
 
 
 

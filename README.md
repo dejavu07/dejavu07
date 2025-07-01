@@ -1,4 +1,4 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" weight="700" height="500"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" weight="700" height="300"/></div>
 
 <h1 align="center">Jestian Alcasabas</h1>
 <h3 align="center">Electronics Engineering Graduate | Passionate About Innovation & Technology</h3>

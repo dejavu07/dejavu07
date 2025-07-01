@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0c7c5bdf-f2d7-46ed-b59e-f47369775f2c)
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" weight="700" height="500"/></div>
 
 <h1 align="center">Jestian Alcasabas</h1>
 <h3 align="center">Electronics Engineering Graduate | Passionate About Innovation & Technology</h3>

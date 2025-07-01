@@ -1,5 +1,6 @@
 
-![3V1](https://github.com/user-attachments/assets/6735c541-c8a4-4fc0-91ee-af73c72b5091)
+![3V1](https://github.com/user-attachments/assets/a824dafc-3f7f-494d-8e6a-c00add3a4a39)
+
 
 <p align="center"> Electronics Engineering Graduate | Passionate About Innovation & Technology </p>
 

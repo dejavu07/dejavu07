@@ -1,5 +1,5 @@
-![Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi👋, I'm Jestian</h1> 
+
+![3V1](https://github.com/user-attachments/assets/6735c541-c8a4-4fc0-91ee-af73c72b5091)
 
 <p align="center"> Electronics Engineering Graduate | Passionate About Innovation & Technology </p>
 
